@@ -5,7 +5,7 @@ A tool that sets up a Next.js project with a ready-made folder structure and key
 ## Usage
 
 ```bash
-npx hyko-nextjs-kit
+npx hykocx-nextjs-kit
 ```
 
 ## Features
