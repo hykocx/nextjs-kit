@@ -1,10 +1,10 @@
 {
-  "name": "hyko-nextjs-kit",
+  "name": "@hykocx/nextjs-kit",
   "version": "1.0.0",
   "description": "A tool that sets up a Next.js project with a ready-made folder structure and key files that I use in my projects.",
   "type": "module",
   "bin": {
-    "hyko-nextjs-kit": "cli.js"
+    "@hykocx/nextjs-kit": "cli.js"
   },
   "repository": {
     "type": "git",
